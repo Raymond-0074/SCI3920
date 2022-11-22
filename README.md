@@ -1,3 +1,3 @@
 # SCI3920
 
-Some description.
+Some description!
